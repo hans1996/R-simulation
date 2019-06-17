@@ -1,5 +1,5 @@
 #' transform the sample function to generator,generator means only need to input n then you can get simulation data
-#'
+#' #
 #' @param sample_function sample function
 #' @param ... parameter in sample function exept n
 #'
